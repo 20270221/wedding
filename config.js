@@ -14,7 +14,7 @@
 
 const CONFIG = {
   // ── 1. 초대장 열기 ──
-  useCurtain: false,  // 초대장 열기 화면 사용 여부 (true: 사용, false: 바로 본문 표시)
+  useCurtain: true,  // 초대장 열기 화면 사용 여부 (true: 사용, false: 바로 본문 표시)
 
   // ── 2. 메인 (히어로) ──
   groom: {
@@ -53,32 +53,32 @@ const CONFIG = {
   // ── 4. 우리의 이야기 ──
   story: {
     title: "우리의 이야기",
-    content: "서로 다른 길을 걷던 두 사람이\n하나의 길을 함께 걷게 되었습니다.\n\n여러분을 소중한 자리에 초대합니다."
+    content: "함께 웃고 대화하는 평범한 하루 속에서\n평생을 곁에 두고 싶은 확신을 얻었습니다.\n\n언제나 서로의 가장 든든한 온기가되어\n바르게 살아가겠습니다."
   },
 
   // ── 5. 오시는 길 ──
   mapLinks: {
-    kakao: "https://map.kakao.com/",
-    naver: "https://map.naver.com/"
+    kakao: "https://place.map.kakao.com/1408612060",
+    naver: "https://naver.me/5N15n4Vu"
   },
 
   // ── 6. 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "홍길동", bank: "국민은행", number: "000-000-000000" },
-      { role: "아버지", name: "홍판서", bank: "신한은행", number: "000-000-000000" },
-      { role: "어머니", name: "김부인", bank: "우리은행", number: "000-000-000000" }
+      { role: "신랑", name: "정구열", bank: "우리은행", number: "1002-146-384245" },
+      { role: "아버지", name: "정관용", bank: "우리은행", number: "429-07-037538" },
+      { role: "어머니", name: "정민영", bank: "국민은행", number: "294-21-0299-034" }
     ],
     bride: [
-      { role: "신부", name: "김영희", bank: "하나은행", number: "000-000-000000" },
-      { role: "아버지", name: "김사장", bank: "기업은행", number: "000-000-000000" },
-      { role: "어머니", name: "이부인", bank: "농협은행", number: "000-000-000000" }
+      { role: "신부", name: "이은지", bank: "국민은행", number: "90226535121" },
+      { role: "아버지", name: "이성기", bank: "국민은행", number: "399102-04-132452" },
+      { role: "어머니", name: "정혜숙", bank: "국민은행", number: "427502-04-001772" }
     ]
   },
 
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "신랑 ♥ 신부 결혼합니다",
-    description: "2026년 5월 9일, 소중한 분들을 초대합니다."
+    description: "2027년 2월 21일, 소중한 분들을 초대합니다."
   }
 };
