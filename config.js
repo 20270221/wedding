@@ -20,65 +20,65 @@ const CONFIG = {
   groom: {
     name: "정구열",
     nameEn: "Groom",
-    father: "정관용",
-    mother: "정민영",
+    father: "아버지",
+    mother: "어머니",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "이은지",
+    name: "신부",
     nameEn: "Bride",
-    father: "이성기",
-    mother: "정혜숙",
+    father: "아버지",
+    mother: "어머니",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2027-02-21”,
-    time: "14:00",
-    venue: "서울대학교",
-    hall: "이라운지",
-    address: "서울특별시 관악구 관악로 1",
-    tel: "02-875-7761”
+    date: "2026-05-09",
+    time: "13:00",
+    venue: "예식장 이름",
+    hall: "그랜드홀 5층",
+    address: "서울특별시 강남구 테헤란로 123",
+    tel: "02-1234-5678"
   },
 
   // ── 3. 인사말 ──
   greeting: {
     title: "소중한 분들을 초대합니다",
-    content: "서로 다른 길을 걷던 두 사람이 만나\n하나의 속도로 발을 맞추게 되었습니다.\n\n저희의 첫페이지가 펼쳐지는 날,\n귀한 걸음으로 함께해 주시길 바랍니다."
+    content: "서로 다른 길을 걸어온 두 사람이\n이제 같은 길을 함께 걸어가려 합니다.\n\n저희의 새로운 시작을\n축복해 주시면 감사하겠습니다."
   },
 
   // ── 4. 우리의 이야기 ──
   story: {
     title: "우리의 이야기",
-    content: "함께 웃고 대화하는 평범한 하루 속에서\n평생을 곁에 두고 싶은 확신을 얻었습니다.\n\n언제나 서로의 가장 든든한 온기가되어\n바르게 살아가겠습니다."
+    content: "서로 다른 길을 걷던 두 사람이\n하나의 길을 함께 걷게 되었습니다.\n\n여러분을 소중한 자리에 초대합니다."
   },
 
   // ── 5. 오시는 길 ──
   mapLinks: {
-    kakao: "https://place.map.kakao.com/1408612060",
-    naver: "https://naver.me/5N15n4Vu"
+    kakao: "https://map.kakao.com/",
+    naver: "https://map.naver.com/"
   },
 
   // ── 6. 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "정구열", bank: "우리은행", number: "1002-146-384245" },
-      { role: "아버지", name: "정관용", bank: "우리은행", number: "429-07-037538" },
-      { role: "어머니", name: "정민영", bank: "국민은행", number: "294-21-0299-034" }
+      { role: "신랑", name: "홍길동", bank: "국민은행", number: "000-000-000000" },
+      { role: "아버지", name: "홍판서", bank: "신한은행", number: "000-000-000000" },
+      { role: "어머니", name: "김부인", bank: "우리은행", number: "000-000-000000" }
     ],
     bride: [
-      { role: "신부", name: "이은지", bank: "국민은행", number: "90226535121" },
-      { role: "아버지", name: "이성기", bank: "국민은행", number: "399102-04-132452" },
-      { role: "어머니", name: "정혜숙", bank: "국민은행", number: "427502-04-001772" }
+      { role: "신부", name: "김영희", bank: "하나은행", number: "000-000-000000" },
+      { role: "아버지", name: "김사장", bank: "기업은행", number: "000-000-000000" },
+      { role: "어머니", name: "이부인", bank: "농협은행", number: "000-000-000000" }
     ]
   },
 
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
-    title: "정구열 ♥ 이은지 결혼합니다",
-    description: "2027년 2월 21일, 소중한 분들을 초대합니다."
+    title: "신랑 ♥ 신부 결혼합니다",
+    description: "2026년 5월 9일, 소중한 분들을 초대합니다."
   }
 };
