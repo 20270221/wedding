@@ -20,28 +20,28 @@ const CONFIG = {
   groom: {
     name: "정구열",
     nameEn: "Groom",
-    father: "아버지",
-    mother: "어머니",
+    father: "정관용",
+    mother: "정민영",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "신부",
+    name: "이은지",
     nameEn: "Bride",
-    father: "아버지",
-    mother: "어머니",
+    father: "이성기",
+    mother: "정혜숙",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
-    venue: "예식장 이름",
-    hall: "그랜드홀 5층",
-    address: "서울특별시 강남구 테헤란로 123",
-    tel: "02-1234-5678"
+    date: "2027-02-21",
+    time: "14:00",
+    venue: "서울대학교",
+    hall: "이라운지",
+    address: "서울특별시 관악구 관악로 1",
+    tel: "02-875-7761"
   },
 
   // ── 3. 인사말 ──
