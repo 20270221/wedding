@@ -18,19 +18,19 @@ const CONFIG = {
 
   // ── 2. 메인 (히어로) ──
   groom: {
-    name: “정구열”,
+    name: "정구열",
     nameEn: "Groom",
-    father: “정관용”,
-    mother: “정민영”,
+    father: "정관용",
+    mother: "정민영",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: “이은지”,
+    name: "이은지",
     nameEn: "Bride",
-    father: “이성기”,
-    mother: “정혜숙”,
+    father: "이성기",
+    mother: "정혜숙",
     fatherDeceased: false,
     motherDeceased: false
   },
@@ -38,22 +38,22 @@ const CONFIG = {
   wedding: {
     date: "2027-02-21”,
     time: "14:00",
-    venue: “서울대학교“,
-    hall: “이라운지”,
-    address: "서울특별시 관악구 관악로 1”,
+    venue: "서울대학교",
+    hall: "이라운지",
+    address: "서울특별시 관악구 관악로 1",
     tel: "02-875-7761”
   },
 
   // ── 3. 인사말 ──
   greeting: {
     title: "소중한 분들을 초대합니다",
-    content: “서로 다른 길을 걷던 두 사람이 만나\n하나의 속도로 발을 맞추게 되었습니다.\n\n저희의 첫페이지가 펼쳐지는 날,\n귀한 걸음으로 함께해 주시길 바랍니다.”
+    content: "서로 다른 길을 걷던 두 사람이 만나\n하나의 속도로 발을 맞추게 되었습니다.\n\n저희의 첫페이지가 펼쳐지는 날,\n귀한 걸음으로 함께해 주시길 바랍니다."
   },
 
   // ── 4. 우리의 이야기 ──
   story: {
     title: "우리의 이야기",
-    content: “함께 웃고 대화하는 평범한 하루 속에서\n평생을 곁에 두고 싶은 확신을 얻었습니다.\n\n언제나 서로의 가장 든든한 온기가되어\n바르게 살아가겠습니다.”
+    content: "함께 웃고 대화하는 평범한 하루 속에서\n평생을 곁에 두고 싶은 확신을 얻었습니다.\n\n언제나 서로의 가장 든든한 온기가되어\n바르게 살아가겠습니다."
   },
 
   // ── 5. 오시는 길 ──
@@ -78,7 +78,7 @@ const CONFIG = {
 
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
-    title: “정구열 ♥ 이은지 결혼합니다",
+    title: "정구열 ♥ 이은지 결혼합니다",
     description: "2027년 2월 21일, 소중한 분들을 초대합니다."
   }
 };
